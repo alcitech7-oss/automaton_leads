@@ -1,0 +1,15 @@
+[14:02] Cliente Carlos Henrique: Opa, gostaria de saber se meu cadastro está ativo? Meu e-mail é carlos.henrique@yahoo.com
+[14:05] Suporte Carlos: Olá Carlos, vou verificar para você no sistema instantaneamente.
+[14:10] Cliente Mariana Souza: Boa tarde! Quero receber o catálogo no meu zap: 11-98888-7777
+[14:12] Cliente Carlos Henrique: Ah, esqueci de passar o meu número de contato, segue aí: 11-91111-2222
+[14:15] Atendente Virtual: Mensagem automática: Todos os nossos operadores estão ocupados no momento.
+[14:20] Cliente John Doe: Hello! Please send the invoice to my professional email: john.doe@techglobal.com
+[14:22] Cliente Mariana Souza: Meu e-mail para o cadastro é mari.souza@outlook.com, aguardo o catálogo!
+[14:28] Cliente Ricardo Santos: Por favor, me liguem urgente no número 21-95555-4444. Valeu!
+[14:32] Cliente Ana Beatriz: Olá! Podem atualizar meu e-mail? O novo é ana.beatriz@gmail.com
+[14:35] Suporte Carlos: Perfeito Ana, já abri o chamado aqui na central.
+[14:40] Cliente John Doe: My phone number is 47-92222-3333. Thanks for the quick support!
+[14:45] Cliente Ricardo Santos: Esqueci de falar, meu e-mail é ricardo.santos@hotmail.com
+[14:48] Cliente Ana Beatriz: Meu telefone mudou também, anotem aí o novo: 19-96666-5555
+[14:52] Cliente Carlos Henrique: Conseguiu ver aquele negócio para mim, Carlos? Valeu!
+[14:55] Suporte Carlos: Atendimento finalizado para o cliente Carlos Henrique.
