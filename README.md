@@ -35,23 +35,25 @@ automaton_leads/
 ---
 
 ## 📦 How to Run
+## 📦 How to Run
 
 1.  **Prepare your data:** Replace the content of `conversas.txt` with your own raw text.
+
 2.  **Run the script:**
     ```bash
-    3. Check the results: The extracted leads will be saved in leads.csv.
     python app.py
-    📌 Notes
-.1 The script is designed to be simple and focused on text processing.
+    ```
 
-2. You can customize the regex patterns in app.py to adapt to different text formats.
+3.  **Check the results:** The extracted leads will be saved in `leads.csv`.
 
-   🔮 Future improvements
-. Add support for more file formats (.docx, .pdf)
 
-. Implement a simple graphical interface
 
-. Integrate with an API to validate emails and phone numbers
+   ## 🔮 Future improvements
+
+- Add support for more file formats (`.docx`, `.pdf`)
+- Implement a simple graphical interface
+- Integrate with an API to validate emails and phone numbers
+
 🙏 Credits & Original Work
 This project was developed by alictech7-oss.
 📄 License
